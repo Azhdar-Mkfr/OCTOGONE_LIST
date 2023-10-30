@@ -52,7 +52,7 @@ Azerty ansi, Préfère le beurre doux au vrai beurre
 #39 Archetype: livre pas rez mais raffle du in-stock
 #40 thibounet: Iso ansi
 #41 Big_A: balek du Lshift Iso
-...
+#42 Zyrophr: Remap AZERTY dans vial comme un tocard
 ...
 #999999999 vitriol_drinker : larve insignifiante
 
@@ -69,52 +69,3 @@ Sortie de Liste suite à cancel de Matrix lapin:
 
 #32 Thibounet : prend 1 matrix lapin
 #34 Nens: prend 1 matrix lapin
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
