@@ -34,25 +34,26 @@ Azerty ansi, Préfère le beurre doux au vrai beurre
 #22 Jefforion : "Et sur Twitter  @Azhdar xAzertyx tu écris aussi COMME UN CONNARD EN MÀJ ?" 
 	"Le beige c'est bien, surtout quand tu es daltonien. C'est la seul couleur où l'on n'a pas peur de faire des faute de goût."
 #23 nit : lunettes de mongolien
-#24 suruq: je suis en faveur du winkeyless avec f13
-#25 Diwoka : "non c est toi la fin le seul mec encore en azety iso"
-#26 Alkhar: non respect des claviers
-#27 L'informaticien de Koï : ne sais pas faire de chiffre sans numpad
-#28 Coumbaya : https://cdn.discordapp.com/attachments/622875528671657984/634066281007415317/JPEG_20191016_183254.jpg
-#29 SureFoot : "ah mais gronibard c'est le HAUT du panier hein"
-#30 Mathéo D :  Azerty ANSI
-#31 Zekth : "sac à main"
-#32 Lion : FDP2POVRE
-#33 Llmamatron: parle pas le english et fait des remarques à 2 balles
-#34 Thieu75 : prend 1 matrix lapin
-#35 Alyse : prend 1 matrix lapin
-#36 NicoGa: prend 1 matrix lapin, aime le matrix dechetterie
-#37 Slayer tête de mort : weeb, '' qwerty supremacy''
-#38 LucasAlt: "Mouais, c'est bien le theme blanc T'es juste jaloux de pas aimer"
-#39 Archetype: livre pas rez mais raffle du in-stock
-#40 thibounet: Iso ansi
-#41 Big_A: balek du Lshift Iso
-#42 Zyrophr: Remap AZERTY dans vial comme un tocard
+
+#24 Zyrophr: Remap AZERTY dans vial comme un tocard, Ping Plaket alors qu'il essaie de se sevrer de Discord
+#25 suruq: je suis en faveur du winkeyless avec f13
+#26 Diwoka : "non c est toi la fin le seul mec encore en azety iso"
+#27 Alkhar: non respect des claviers
+#28 L'informaticien de Koï : ne sais pas faire de chiffre sans numpad
+#29 Coumbaya : https://cdn.discordapp.com/attachments/622875528671657984/634066281007415317/JPEG_20191016_183254.jpg
+#30 SureFoot : "ah mais gronibard c'est le HAUT du panier hein"
+#31 Mathéo D :  Azerty ANSI
+#32 Zekth : "sac à main"
+#33 Lion : FDP2POVRE
+#34 Llmamatron: parle pas le english et fait des remarques à 2 balles
+#35 Thieu75 : prend 1 matrix lapin
+#36 Alyse : prend 1 matrix lapin
+#37 NicoGa: prend 1 matrix lapin, aime le matrix dechetterie
+#38 Slayer tête de mort : weeb, '' qwerty supremacy''
+#39 LucasAlt: "Mouais, c'est bien le theme blanc T'es juste jaloux de pas aimer"
+#40 Archetype: livre pas rez mais raffle du in-stock
+#41 thibounet: Iso ansi
+#42 Big_A: balek du Lshift Iso
 ...
 #999999999 vitriol_drinker : larve insignifiante
 
