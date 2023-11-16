@@ -35,7 +35,7 @@ Azerty ansi, Préfère le beurre doux au vrai beurre
 #22 Puree : revend des azerty aux bridés pour un prix ridicule, prend deux matrix lapin
 #23 heymark : because heymark
 #24 Inviz : supporte l'esclavagisme moderne, la mort de 6500 ouvriers tout ça pour voir des millionnraires taper dans un ballon, mange des pizzas saumon et raclette base tomate
-#25 (ex aequo) Zyrophr : Remap AZERTY dans vial comme un tocard, Ping Plaket alors qu'il essaie de se sevrer de Discord, mange sa pizza en commençant par la croute comme un iench
+#25 Zyrophr : Remap AZERTY dans vial comme un tocard, Ping Plaket alors qu'il essaie de se sevrer de Discord, mange sa pizza en commençant par la croute comme un iench
 #26 sol : achat du GMK Weebzabi
 #27 Legoo : Paie 150€ un artisan déguelasse
 #28 Jefforion : "Et sur Twitter  @Azhdar xAzertyx tu écris aussi COMME UN CONNARD EN MÀJ ?" 
@@ -58,6 +58,7 @@ Azerty ansi, Préfère le beurre doux au vrai beurre
 #44 Archetype : livre pas rez mais raffle du in-stock
 #45 thibounet : Iso ansi
 #46 Big_A : balek du Lshift Iso
+#47 Alt : BsN en ANSI premier degré
 ...
 #999999999 vitriol_drinker : larve insignifiante
 
