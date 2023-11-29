@@ -30,35 +30,36 @@ Azerty ansi, Préfère le beurre doux au vrai beurre
 #17 louison : because louison
 #18 CoyoteMegalo : confond un LZ-SQ avec un Razer.
 #19 Taner : Wotting60 à 900€
-#20 Tomish : DISCORD WHITE THEME, because tomish, téléphone au volant, "Comme les azertistes, les irréductibles golmons"
-#21 Kzm :  "split right shit + split backspace sur un tkl maître course"
-#22 Puree : revend des azerty aux bridés pour un prix ridicule, prend deux matrix lapin
-#23 heymark : because heymark
-#24 Inviz : supporte l'esclavagisme moderne, la mort de 6500 ouvriers tout ça pour voir des millionnraires taper dans un ballon, mange des pizzas saumon et raclette base tomate
-#25 Zyrophr : Remap AZERTY dans vial comme un tocard, Ping Plaket alors qu'il essaie de se sevrer de Discord, mange sa pizza en commençant par la croute comme un iench
-#26 sol : achat du GMK Weebzabi
-#27 Legoo : Paie 150€ un artisan déguelasse
-#28 Jefforion : "Et sur Twitter  @Azhdar xAzertyx tu écris aussi COMME UN CONNARD EN MÀJ ?" 
+#20 CptLoutre : veux pas nous faire des claviers avec sa CNC
+#21 Tomish : DISCORD WHITE THEME, because tomish, téléphone au volant, "Comme les azertistes, les irréductibles golmons"
+#22 Kzm :  "split right shit + split backspace sur un tkl maître course"
+#23 Puree : revend des azerty aux bridés pour un prix ridicule, prend deux matrix lapin
+#24 heymark : because heymark
+#25 Inviz : supporte l'esclavagisme moderne, la mort de 6500 ouvriers tout ça pour voir des millionnraires taper dans un ballon, mange des pizzas saumon et raclette base tomate
+#26 Zyrophr : Remap AZERTY dans vial comme un tocard, Ping Plaket alors qu'il essaie de se sevrer de Discord, mange sa pizza en commençant par la croute comme un iench
+#27 sol : achat du GMK Weebzabi
+#28 Legoo : Paie 150€ un artisan déguelasse
+#29 Jefforion : "Et sur Twitter  @Azhdar xAzertyx tu écris aussi COMME UN CONNARD EN MÀJ ?" 
 	"Le beige c'est bien, surtout quand tu es daltonien. C'est la seul couleur où l'on n'a pas peur de faire des faute de goût."
-#29 nit : lunettes de mongolien
-#30 suruq : je suis en faveur du winkeyless avec f13
-#31 Diwoka : "non c est toi la fin le seul mec encore en azety iso"
-#32 Alkhar : non respect des claviers
-#33 L'informaticien de Koï : ne sais pas faire de chiffre sans numpad
-#34 Coumbaya : https://cdn.discordapp.com/attachments/622875528671657984/634066281007415317/JPEG_20191016_183254.jpg
-#35 SureFoot : "ah mais gronibard c'est le HAUT du panier hein"
-#36 Mathéo D :  Azerty ANSI
-#37 Zekth : "sac à main"
-#38 Lion : FDP2POVRE
-#39 Llmamatron : parle pas le english et fait des remarques à 2 balles
-#40 Thieu75 : prend 1 matrix lapin
-#41 Alyse : prend 1 matrix lapin
-#42 Slayer tête de mort : weeb, '' qwerty supremacy''
-#43 LucasAlt : "Mouais, c'est bien le theme blanc T'es juste jaloux de pas aimer"
-#44 Archetype : livre pas rez mais raffle du in-stock
-#45 thibounet : Iso ansi
-#46 Big_A : balek du Lshift Iso
-#47 Alt : BsN en ANSI premier degré
+#30 nit : lunettes de mongolien
+#31 suruq : je suis en faveur du winkeyless avec f13
+#32 Diwoka : "non c est toi la fin le seul mec encore en azety iso"
+#33 Alkhar : non respect des claviers
+#34 L'informaticien de Koï : ne sais pas faire de chiffre sans numpad
+#35 Coumbaya : https://cdn.discordapp.com/attachments/622875528671657984/634066281007415317/JPEG_20191016_183254.jpg
+#36 SureFoot : "ah mais gronibard c'est le HAUT du panier hein"
+#37 Mathéo D :  Azerty ANSI
+#38 Zekth : "sac à main"
+#39 Lion : FDP2POVRE
+#40 Llmamatron : parle pas le english et fait des remarques à 2 balles
+#41 Thieu75 : prend 1 matrix lapin
+#42 Alyse : prend 1 matrix lapin
+#43 Slayer tête de mort : weeb, '' qwerty supremacy''
+#44 LucasAlt : "Mouais, c'est bien le theme blanc T'es juste jaloux de pas aimer"
+#45 Archetype : livre pas rez mais raffle du in-stock
+#46 thibounet : Iso ansi
+#47 Big_A : balek du Lshift Iso
+#48 Alt : BsN en ANSI premier degré
 ...
 #999999999 vitriol_drinker : larve insignifiante
 
