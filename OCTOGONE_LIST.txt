@@ -62,6 +62,7 @@ Azerty ansi, Préfère le beurre doux au vrai beurre
 #48 thibounet : Iso ansi
 #49 Big_A : balek du Lshift Iso
 #50 Alt : BsN en ANSI premier degré
+#51 VardexV1 : Subgift tout le monde sauf moi
 ...
 #999999999 vitriol_drinker : larve insignifiante
 
