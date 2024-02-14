@@ -46,23 +46,24 @@ Azerty ansi, Préfère le beurre doux au vrai beurre
 #33 suruq : je suis en faveur du winkeyless avec f13
 #34 Diwoka : "non c est toi la fin le seul mec encore en azety iso"
 #35 Alkhar : non respect des claviers
-#36 L'informaticien de Koï : ne sais pas faire de chiffre sans numpad
-#37 Coumbaya : https://cdn.discordapp.com/attachments/622875528671657984/634066281007415317/JPEG_20191016_183254.jpg
-#38 SureFoot : "ah mais gronibard c'est le HAUT du panier hein"
-#39 Mathéo D :  Azerty ANSI
-#40 Zekth : "sac à main"
-#41 Lion : FDP2POVRE
-#42 Llmamatron : parle pas le english et fait des remarques à 2 balles
-#43 Thieu75 : prend 1 matrix lapin
-#44 Alyse : prend 1 matrix lapin
-#45 Slayer tête de mort : weeb, '' qwerty supremacy''
-#46 LucasAlt : "Mouais, c'est bien le theme blanc T'es juste jaloux de pas aimer"
-#47 Archetype : livre pas rez mais raffle du in-stock
-#48 thibounet : Iso ansi
-#49 Big_A : balek du Lshift Iso
-#50 Alt : BsN en ANSI premier degré
-#51 VardexV1 : Subgift tout le monde sauf moi
-#52 La meuf de Coumbaya : achète un logitech dégueu
+#36 koko0001 : "Pas la même plateforme, je jauge et je modifie les prix en fonction de ce qu'on me propose en mp.Le but étant de faire une plus value sur des claviers neuf limité"
+#37 L'informaticien de Koï : ne sais pas faire de chiffre sans numpad
+#38 Coumbaya : https://cdn.discordapp.com/attachments/622875528671657984/634066281007415317/JPEG_20191016_183254.jpg
+#39 SureFoot : "ah mais gronibard c'est le HAUT du panier hein"
+#40 Mathéo D :  Azerty ANSI
+#41 Zekth : "sac à main"
+#42 Lion : FDP2POVRE
+#43 Llmamatron : parle pas le english et fait des remarques à 2 balles
+#44 Thieu75 : prend 1 matrix lapin
+#45 Alyse : prend 1 matrix lapin
+#46 Slayer tête de mort : weeb, '' qwerty supremacy''
+#47 LucasAlt : "Mouais, c'est bien le theme blanc T'es juste jaloux de pas aimer"
+#48 Archetype : livre pas rez mais raffle du in-stock
+#49 thibounet : Iso ansi
+#50 Big_A : balek du Lshift Iso
+#51 Alt : BsN en ANSI premier degré
+#52 VardexV1 : Subgift tout le monde sauf moi
+#53 La meuf de Coumbaya : achète un logitech dégueu
 ...
 #999999999 vitriol_drinker : larve insignifiante
 
